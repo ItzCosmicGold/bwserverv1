@@ -1,0 +1,1712 @@
+[08:09:39] [main/ERROR]: No key layers in MapLike[{}]; No key structures in MapLike[{}]
+[08:09:39] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08:09:39] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[08:09:40] [Worker-Main-5/INFO]: Loaded 7 recipes
+[08:09:41] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[08:09:41] [Server thread/INFO]: Loading properties
+[08:09:41] [Server thread/INFO]: This server is running Paper version git-Paper-774 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[08:09:41] [Server thread/INFO]: Debug logging is disabled
+[08:09:41] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:09:41] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:09:41] [Server thread/INFO]: Default game type: SURVIVAL
+[08:09:41] [Server thread/INFO]: Generating keypair
+[08:09:41] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[08:09:41] [Server thread/INFO]: Using default channel type
+[08:09:42] [Server thread/WARN]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[08:09:45] [Server thread/WARN]: Legacy plugin Sudo v1 does not specify an api-version.
+[08:09:45] [Server thread/WARN]: Legacy plugin AdvancedReplay v1.7 does not specify an api-version.
+[08:09:45] [Server thread/WARN]: Legacy plugin ServerListPlus v3.4.8 does not specify an api-version.
+[08:09:45] [Server thread/INFO]: [Sudo] Loading Sudo v1
+[08:09:45] [Server thread/INFO]: [VoidGenerator] Loading VoidGenerator v1.7.0
+[08:09:45] [Server thread/INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.10.9
+[08:09:45] [Server thread/INFO]: [ViaVersion] Loading ViaVersion v4.0.1
+[08:09:45] [Server thread/INFO]: [ViaVersion] ViaVersion 4.0.1 is now loaded, injecting!
+[08:09:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading 1.12 -> 1.13 mappings...
+[08:09:45] [Via-Mappingloader-1/INFO]: [ViaVersion] Loading 1.13 -> 1.13.2 mappings...
+[08:09:45] [Via-Mappingloader-2/INFO]: [ViaVersion] Loading 1.13.2 -> 1.14 mappings...
+[08:09:45] [Via-Mappingloader-3/INFO]: [ViaVersion] Loading 1.14 -> 1.15 mappings...
+[08:09:45] [Via-Mappingloader-4/INFO]: [ViaVersion] Loading 1.15 -> 1.16 mappings...
+[08:09:45] [Via-Mappingloader-5/INFO]: [ViaVersion] Loading 1.16 -> 1.16.2 mappings...
+[08:09:45] [Via-Mappingloader-6/INFO]: [ViaVersion] Loading 1.16.2 -> 1.17 mappings...
+[08:09:45] [Server thread/INFO]: [HeadsPluginAPI] Loading HeadsPluginAPI v2.0.11
+[08:09:45] [Server thread/INFO]: [HeadsPluginAPI] Added class loader to HeadsPlugin springClassLoaders
+[08:09:45] [Server thread/INFO]: [ViaBackwards] Loading ViaBackwards v4.0.1
+[08:09:45] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[08:09:45] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.10 -> 1.9.4 mappings...
+[08:09:45] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.11 -> 1.10 mappings...
+[08:09:45] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[08:09:46] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.13.2 -> 1.13 mappings...
+[08:09:46] [Via-Mappingloader-7/INFO]: [ViaBackwards] Loading 1.15 -> 1.14 mappings...
+[08:09:46] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.14 -> 1.13.2 mappings...
+[08:09:46] [Via-Mappingloader-3/INFO]: [ViaBackwards] Loading 1.16 -> 1.15 mappings...
+[08:09:46] [Via-Mappingloader-6/INFO]: [ViaBackwards] Loading 1.16.2 -> 1.16 mappings...
+[08:09:46] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.17 -> 1.16.2 mappings...
+[08:09:46] [Server thread/INFO]: [ProtocolLib] Loading ProtocolLib v4.7.0
+[08:09:46] [Via-Mappingloader-5/INFO]: [ViaBackwards] Loading 1.13 -> 1.12 mappings...
+[08:09:47] [Server thread/INFO]: [ViaRewind] Loading ViaRewind v2.0.1
+[08:09:47] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.42
+[08:09:47] [Server thread/INFO]: [AdvancedReplay] Loading AdvancedReplay v1.7
+[08:09:47] [Server thread/INFO]: [HolographicDisplays] Loading HolographicDisplays v2.4.6
+[08:09:47] [Server thread/INFO]: [ServerListPlus] Loading ServerListPlus v3.4.8
+[08:09:47] [Server thread/INFO]: [Vault] Loading Vault v1.7.3-b131
+[08:09:47] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v4.2.2-b812
+[08:09:47] [Server thread/INFO]: [FastAsyncWorldEdit] Loading FastAsyncWorldEdit v1.16-730;96ed367
+[08:09:47] [Server thread/INFO]: Using FAWE for relighting
+[08:09:47] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@5a0828f2]
+[08:09:47] [Server thread/INFO]: [HolographicExtension] Loading HolographicExtension v1.10.9
+[08:09:47] [Server thread/INFO]: [WorldGuard] Loading WorldGuard v7.0.5+3827266
+[08:09:47] [Server thread/INFO]: [Citizens] Loading Citizens v2.0.28-SNAPSHOT (build 2328)
+[08:09:47] [Server thread/INFO]: [BedWars] Loading BedWars v0.2.18
+[08:09:47] [Server thread/INFO]: [Negativity] Loading Negativity v1.11
+[08:09:47] [Server thread/INFO]: [SBAHypixelify] Loading SBAHypixelify v1.4.3
+[08:09:47] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[08:09:47] [Server thread/INFO]: [VoidGenerator] Enabling VoidGenerator v1.7.0
+[08:09:47] [Server thread/INFO]: [VoidGenerator] v1_15
+[08:09:47] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v4.7.0
+[08:09:47] [Server thread/INFO]: [ProtocolLib] Started structure compiler thread.
+[08:09:47] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v2.0.1
+[08:09:48] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.42
+[08:09:48] [Server thread/INFO]:         __    
+[08:09:48] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.42
+[08:09:48] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[08:09:48] [Server thread/INFO]: 
+[08:09:48] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[08:09:48] [Server thread/INFO]: [LuckPerms] Loading storage provider... [YAML]
+[08:09:48] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[08:09:48] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[08:09:49] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1094ms)
+[08:09:49] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[08:09:49] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[08:09:49] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[08:09:49] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[08:09:49] [Server thread/INFO]: [FastAsyncWorldEdit] Enabling FastAsyncWorldEdit v1.16-730;96ed367
+[08:09:50] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[08:09:50] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[08:09:50] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.FAWE_Spigot_v1_16_R3 as the Bukkit adapter
+[08:09:51] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[08:09:51] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[08:09:51] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[08:09:51] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[08:09:51] [Server thread/INFO]: Preparing level "Lobby"
+[08:09:51] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[08:09:51] [Server thread/INFO]: Preparing spawn area: 0%
+[08:09:51] [Server thread/INFO]: Time elapsed: 167 ms
+[08:09:51] [Server thread/INFO]: [Sudo] Enabling Sudo v1*
+[08:09:51] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.10.9
+[08:09:51] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v4.0.1
+[08:09:51] [Server thread/INFO]: [HeadsPluginAPI] Enabling HeadsPluginAPI v2.0.11
+[08:09:52] [Server thread/INFO]: 
+[08:09:52] [Server thread/INFO]:  _    _                   _        _____   _                _                    _____  _____
+[08:09:52] [Server thread/INFO]: | |  | |                 | |      |  __ \ | |              (_)            /\    |  __ \|_   _|
+[08:09:52] [Server thread/INFO]: | |__| |  ___   __ _   __| | ___  | |__) || | _   _   __ _  _  _ __      /  \   | |__) | | |
+[08:09:52] [Server thread/INFO]: |  __  | / _ \ / _` | / _` |/ __| |  ___/ | || | | | / _` || || '_ \    / /\ \  |  ___/  | |
+[08:09:52] [Server thread/INFO]: | |  | ||  __/| (_| || (_| |\__ \ | |     | || |_| || (_| || || | | |  / ____ \ | |     _| |_
+[08:09:52] [Server thread/INFO]: |_|  |_| \___| \__,_| \__,_||___/ |_|     |_| \__,_| \__, ||_||_| |_| /_/    \_\|_|    |_____|
+[08:09:52] [Server thread/INFO]:  _________________________________________________    __/ |  ________________________________
+[08:09:52] [Server thread/INFO]: |_________________________________________________|  |___/  |________________________________|
+[08:09:52] [Server thread/INFO]: 
+[08:09:52] [Server thread/INFO]:  :: HeadsPluginAPI - version 2.0.11 ::
+[08:09:52] [Server thread/INFO]: 
+[08:09:52] [Server thread/INFO]: [org.springframework.boot.SpringApplication] Starting application using Java 16.0.2 on Anurag with PID 3340 (started by Lenovo in C:\Users\Lenovo\Desktop\bw1.0)
+[08:09:52] [Server thread/INFO]: [org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[08:09:52] [Server thread/WARN]: [HeadsPluginAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
+[08:09:52] [Server thread/INFO]: [org.springframework.data.repository.config.RepositoryConfigurationDelegate] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[08:09:52] [Server thread/INFO]: [org.springframework.data.repository.config.RepositoryConfigurationDelegate] Finished Spring Data repository scanning in 52 ms. Found 5 JPA repository interfaces.
+[08:09:53] [Server thread/INFO]: [org.springframework.cloud.context.scope.GenericScope] BeanFactory id=554924b7-98f8-3271-917e-c0f3e8778407
+[08:09:54] [Server thread/INFO]: [org.hibernate.jpa.internal.util.LogHelper] HHH000204: Processing PersistenceUnitInfo [name: default]
+[08:09:54] [Server thread/INFO]: [org.hibernate.Version] HHH000412: Hibernate ORM core version [WORKING]
+[08:09:54] [Server thread/INFO]: [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[08:09:54] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[08:09:54] [Server thread/INFO]: [hsqldb.db.HSQLDB7CCF115F23.ENGINE] Checkpoint start
+[08:09:54] [Server thread/INFO]: [hsqldb.db.HSQLDB7CCF115F23.ENGINE] checkpointClose start
+[08:09:54] [Server thread/INFO]: [hsqldb.db.HSQLDB7CCF115F23.ENGINE] checkpointClose synched
+[08:09:54] [Server thread/INFO]: [hsqldb.db.HSQLDB7CCF115F23.ENGINE] checkpointClose script done
+[08:09:54] [Server thread/INFO]: [hsqldb.db.HSQLDB7CCF115F23.ENGINE] checkpointClose end
+[08:09:54] [Server thread/INFO]: [hsqldb.db.HSQLDB7CCF115F23.ENGINE] Checkpoint end - txts: 1
+[08:09:54] [Server thread/INFO]: [com.zaxxer.hikari.pool.PoolBase] HikariPool-1 - Driver does not support get/set network timeout for connections. (feature not supported)
+[08:09:54] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[08:09:54] [Server thread/INFO]: [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+[08:09:55] [Server thread/INFO]: [org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator] HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+[08:09:55] [Server thread/INFO]: [org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[08:09:57] [Server thread/WARN]: [dev.alangomes.springspigot.command.CommandService] Failed to register commands natively, falling back to event listeners
+java.lang.UnsupportedOperationException: remove
+	at java.util.Iterator.remove(Iterator.java:102) ~[?:?]
+	at org.bukkit.command.SimpleCommandMap.register(SimpleCommandMap.java:81) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.SimpleCommandMap.register(SimpleCommandMap.java:65) ~[patched_1.16.5.jar:git-Paper-774]
+	at dev.alangomes.springspigot.command.CommandService.registerCommand(CommandService.java:98) ~[?:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1511) ~[?:?]
+	at dev.alangomes.springspigot.command.CommandService.init(CommandService.java:74) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:?]
+	at jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78) ~[?:?]
+	at jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:?]
+	at java.lang.reflect.Method.invoke(Method.java:567) ~[?:?]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleElement.invoke(InitDestroyAnnotationBeanPostProcessor.java:389) ~[?:?]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor$LifecycleMetadata.invokeInitMethods(InitDestroyAnnotationBeanPostProcessor.java:333) ~[?:?]
+	at org.springframework.beans.factory.annotation.InitDestroyAnnotationBeanPostProcessor.postProcessBeforeInitialization(InitDestroyAnnotationBeanPostProcessor.java:157) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.applyBeanPostProcessorsBeforeInitialization(AbstractAutowireCapableBeanFactory.java:422) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1778) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[?:?]
+	at org.springframework.beans.factory.config.DependencyDescriptor.resolveCandidate(DependencyDescriptor.java:276) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.doResolveDependency(DefaultListableBeanFactory.java:1380) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.resolveDependency(DefaultListableBeanFactory.java:1300) ~[?:?]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.resolveFieldValue(AutowiredAnnotationBeanPostProcessor.java:657) ~[?:?]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor$AutowiredFieldElement.inject(AutowiredAnnotationBeanPostProcessor.java:640) ~[?:?]
+	at org.springframework.beans.factory.annotation.InjectionMetadata.inject(InjectionMetadata.java:119) ~[?:?]
+	at org.springframework.beans.factory.annotation.AutowiredAnnotationBeanPostProcessor.postProcessProperties(AutowiredAnnotationBeanPostProcessor.java:399) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.populateBean(AbstractAutowireCapableBeanFactory.java:1413) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultListableBeanFactory.preInstantiateSingletons(DefaultListableBeanFactory.java:944) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:918) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[?:?]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) ~[?:?]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:438) ~[?:?]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:337) ~[?:?]
+	at com.github.cc007.headsplugin.HeadsPlugin.onEnable(HeadsPlugin.java:88) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:518) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:432) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.loadWorld(MinecraftServer.java:594) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.init(DedicatedServer.java:298) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1069) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-774]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+[08:09:59] [Server thread/INFO]: [org.springframework.cloud.configuration.SpringBootVersionVerifier] Cannot check Boot version from manifest
+[08:09:59] [Server thread/INFO]: [org.springframework.boot.SpringApplication] Started application in 8.001 seconds (JVM running for 25.818)
+[08:09:59] [Server thread/INFO]: [org.springframework.boot.availability.ApplicationAvailabilityBean] Application availability state LivenessState changed to CORRECT
+[08:09:59] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: mobs
+[08:09:59] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: miscellaneous
+[08:09:59] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: humanoid
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: pokemon
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: color
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: devices
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: blocks
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: pokemon-starters
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: food-drinks
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: monsters
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: alphabet
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: food
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: interior
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: characters
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: cats-and-dogs
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: plants
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: games
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: animals
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: humans
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: decoration
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.integration.database.mappers.to_entity.CategoryNameToCategoryEntityMapper] Found new category: misc
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] Updating head categories (mobs, miscellaneous, humanoid, pokemon, color, devices, blocks, pokemon-starters, food-drinks, monsters, alphabet, food, interior, characters, cats-and-dogs, plants, games, animals, humans, decoration, misc)...
+[08:10:00] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] All categories updates are now scheduled (with 10 seconds between each category).
+[08:10:00] [Server thread/INFO]: [org.springframework.boot.availability.ApplicationAvailabilityBean] Application availability state ReadinessState changed to ACCEPTING_TRAFFIC
+[08:10:00] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v4.0.1
+[08:10:00] [Server thread/INFO]: [AdvancedReplay] Enabling AdvancedReplay v1.7*
+[08:10:00] [Server thread/INFO]: [AdvancedReplay] Loading Replay v1.7 by Jumper251
+[08:10:00] [Server thread/INFO]: [AdvancedReplay] Finished (32ms)
+[08:10:00] [Server thread/INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.4.6
+[08:10:00] [Server thread/INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[08:10:00] [Server thread/INFO]: [ServerListPlus] Enabling ServerListPlus v3.4.8*
+[08:10:00] [Server thread/INFO]: [ServerListPlus] [Core] Reloading configuration...
+[08:10:00] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[08:10:00] [Server thread/INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[08:10:00] [Server thread/INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[08:10:00] [Server thread/INFO]: [ServerListPlus] Successfully loaded!
+[08:10:00] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.4.8 enabled.
+[08:10:00] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v4.2.2-b812
+[08:10:00] [Server thread/WARN]: [Multiverse-Core] "Multiverse-Core v4.2.2-b812" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[08:10:00] [Server thread/INFO]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[08:10:00] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[08:10:00] [Server thread/WARN]: [Multiverse-Core] Exception while loading value for environment
+[08:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:china4
+[08:10:00] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:00] [Server thread/INFO]: Time elapsed: 156 ms
+[08:10:00] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: test
+[08:10:00] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[08:10:00] [Server thread/ERROR]: [VoidGenerator] The BiomeID: "NORMAL" is invalid. The biome defaulted to "THE_VOID".
+[08:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:japan
+[08:10:00] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:00] [Server thread/INFO]: Time elapsed: 74 ms
+[08:10:00] [Server thread/ERROR]: [VoidGenerator] The BiomeID: "NORMAL" is invalid. The biome defaulted to "THE_VOID".
+[08:10:00] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Coloseum
+[08:10:00] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[08:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:boats
+[08:10:00] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:00] [Server thread/INFO]: Time elapsed: 92 ms
+[08:10:00] [Server thread/INFO]: Preparing start region for dimension minecraft:labyrinth
+[08:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:01] [Server thread/INFO]: Time elapsed: 77 ms
+[08:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:boats3
+[08:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:01] [Server thread/INFO]: Time elapsed: 48 ms
+[08:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:golden2
+[08:10:01] [Server thread/INFO]: Time elapsed: 65 ms
+[08:10:01] [Server thread/ERROR]: [VoidGenerator] The BiomeID: "NORMAL" is invalid. The biome defaulted to "THE_VOID".
+[08:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:toys2
+[08:10:01] [Server thread/INFO]: Time elapsed: 62 ms
+[08:10:01] [Server thread/ERROR]: [VoidGenerator] The BiomeID: "NORMAL" is invalid. The biome defaulted to "THE_VOID".
+[08:10:01] [Server thread/ERROR]: [VoidGenerator] The BiomeID: "NORMAL" is invalid. The biome defaulted to "THE_VOID".
+[08:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:toys
+[08:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:01] [Server thread/INFO]: Time elapsed: 245 ms
+[08:10:01] [Server thread/ERROR]: [VoidGenerator] The BiomeID: "NORMAL" is invalid. The biome defaulted to "THE_VOID".
+[08:10:01] [Server thread/INFO]: Preparing start region for dimension minecraft:enderman2
+[08:10:01] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:02] [Server thread/INFO]: Time elapsed: 320 ms
+[08:10:02] [Server thread/INFO]: Preparing start region for dimension minecraft:enderman
+[08:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:02] [Server thread/INFO]: Time elapsed: 24 ms
+[08:10:02] [Server thread/WARN]: [Multiverse-Core] WorldManager: Can't load this world because the folder was deleted/moved: Boats2
+[08:10:02] [Server thread/WARN]: [Multiverse-Core] Use '/mv remove' to remove it from the config!
+[08:10:02] [Server thread/INFO]: Preparing start region for dimension minecraft:labyrinth2
+[08:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:02] [Server thread/INFO]: Time elapsed: 62 ms
+[08:10:02] [Server thread/INFO]: Preparing start region for dimension minecraft:coliseum
+[08:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:02] [Server thread/INFO]: Time elapsed: 100 ms
+[08:10:02] [Server thread/ERROR]: [VoidGenerator] The BiomeID: "NORMAL" is invalid. The biome defaulted to "THE_VOID".
+[08:10:02] [Server thread/INFO]: Preparing start region for dimension minecraft:japan2
+[08:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:02] [Server thread/INFO]: Time elapsed: 24 ms
+[08:10:02] [Server thread/ERROR]: [VoidGenerator] The BiomeID: "NORMAL" is invalid. The biome defaulted to "THE_VOID".
+[08:10:02] [Server thread/INFO]: Preparing start region for dimension minecraft:ghost_road
+[08:10:02] [Server thread/INFO]: Time elapsed: 28 ms
+[08:10:02] [Server thread/INFO]: Preparing start region for dimension minecraft:japan4
+[08:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:02] [Server thread/INFO]: Time elapsed: 190 ms
+[08:10:02] [Server thread/INFO]: Preparing start region for dimension minecraft:golden
+[08:10:02] [Server thread/INFO]: Preparing spawn area: 0%
+[08:10:02] [Server thread/INFO]: Time elapsed: 30 ms
+[08:10:02] [Server thread/INFO]: [Multiverse-Core] 17 - World(s) loaded.
+[08:10:02] [Server thread/WARN]: [Multiverse-Core] Buscript failed to load! The script command will be disabled!
+[08:10:02] [Server thread/INFO]: [Multiverse-Core] Version 4.2.2-b812 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[08:10:02] [Server thread/INFO]: [HolographicExtension] Enabling HolographicExtension v1.10.9
+[08:10:02] [Server thread/INFO]: [HolographicExtension] Starting HolographicExtension v1.10.9
+[08:10:03] [Server thread/INFO]: [HolographicExtension] Registering placeholder 'example' from config.
+[08:10:03] [Server thread/INFO]: [HolographicExtension] Registering placeholder 'scroller' from config.
+[08:10:03] [Server thread/INFO]: [HolographicExtension] Registering placeholder 'typing' from config.
+[08:10:03] [Server thread/INFO]: [HolographicExtension] Registering placeholder 'rainbow' from config.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Enabling WorldGuard v7.0.5+3827266
+[08:10:03] [Server thread/WARN]: [WorldGuard] Loaded class org.hsqldb.jdbc.JDBCDriver from HeadsPluginAPI v2.0.11 which is not a depend, softdepend or loadbefore of this plugin.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Lobby) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Lobby) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Lobby) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Lobby) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Lobby'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (China4) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (China4) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (China4) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (China4) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'China4'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Japan'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Boats) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Boats) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Boats) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Boats) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Boats'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Labyrinth) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Labyrinth) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Labyrinth) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Labyrinth) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Labyrinth'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Boats3) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Boats3) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Boats3) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Boats3) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Boats3'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Golden2) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Golden2) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Golden2) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Golden2) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Golden2'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Toys2) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Toys2) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Toys2) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Toys2) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Toys2'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Toys) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Toys) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Toys) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Toys) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Toys'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Enderman2) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Enderman2) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Enderman2) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Enderman2) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Enderman2'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Enderman) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Enderman) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Enderman) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Enderman) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Enderman'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Labyrinth2) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Labyrinth2) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Labyrinth2) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Labyrinth2) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Labyrinth2'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Coliseum) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Coliseum) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Coliseum) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Coliseum) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Coliseum'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan2) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan2) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan2) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan2) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Japan2'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Ghost_Road) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Ghost_Road) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Ghost_Road) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Ghost_Road) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Ghost_Road'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan4) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan4) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan4) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Japan4) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Japan4'
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Golden) TNT ignition is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Golden) Lighters are PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Golden) Lava fire is PERMITTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] (Golden) Fire spread is UNRESTRICTED.
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loaded configuration for world 'Golden'
+[08:10:03] [Server thread/INFO]: [WorldGuard] Loading region data...
+[08:10:04] [Server thread/INFO]: [Citizens] Enabling Citizens v2.0.28-SNAPSHOT (build 2328)
+[08:10:04] [Server thread/INFO]: [BedWars] Enabling BedWars v0.2.18
+[08:10:04] [Server thread/INFO]: [BedWars] Successfully loaded messages for BedWars! Language: English
+[08:10:04] [Server thread/INFO]: [BedWars] Loading statistics from YAML-File ...
+[08:10:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: bedwars
+[08:10:04] [Server thread/INFO]: =====================  by ScreamingSandals <Misat11, Iamceph, Pronze>
+[08:10:04] [Server thread/INFO]: + Screaming BedWars +  Version: 0.2.18 FREE
+[08:10:04] [Server thread/INFO]: =====================  STABLE VERSION
+[08:10:04] [Server thread/INFO]: [BW] Arena Boats loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Boats3 loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena China loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Coliseum loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Enderman loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Enderman2 loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Ghost_Road loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Golden loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Golden2 loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Japan loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Japan2 loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Japan4 loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Labyrinth loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Labyrinth2 loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Toys loaded!
+[08:10:04] [Server thread/INFO]: [BW] Arena Toys2 loaded!
+[08:10:04] [Server thread/INFO]: Everything is loaded! If you like our work, consider visiting our Patreon! <3
+[08:10:04] [Server thread/INFO]: https://www.patreon.com/screamingsandals
+[08:10:04] [Server thread/INFO]: [Negativity] Enabling Negativity v1.11
+[08:10:04] [Server thread/INFO]: [Negativity] Detected server version: v1_16 (v1_16_R3)
+[08:10:04] [Server thread/INFO]: [Negativity] The plugin ProtocolLib has been detected. Loading Protocollib support ...
+[08:10:04] [Server thread/INFO]: [Negativity] This plugin is free, but you can buy the premium version : https://www.spigotmc.org/resources/86874 <3
+[08:10:04] [Server thread/INFO]: [Negativity] Loaded support for WorldGuard, ViaVersion.
+[08:10:04] [Server thread/INFO]: [SBAHypixelify] Enabling SBAHypixelify v1.4.3
+[08:10:04] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: sba
+[08:10:04] [Server thread/INFO]: [SBAHypixelify] Plugin has loaded
+[08:10:05] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[08:10:05] [Server thread/INFO]: Starting GS4 status listener
+[08:10:05] [Server thread/INFO]: Thread Query Listener started
+[08:10:05] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[08:10:05] [Server thread/INFO]: Running delayed init tasks
+[08:10:05] [Server thread/WARN]: [FastAsyncWorldEdit] Loaded class com.sk89q.worldguard.protection.association.RegionAssociable from WorldGuard v7.0.5+3827266 which is not a depend, softdepend or loadbefore of this plugin.
+[08:10:05] [Server thread/INFO]: [com.boydti.fawe.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[08:10:05] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.16.4/5 (754)
+[08:10:05] [Craft Scheduler Thread - 5/INFO]: THERE IS A NEW UPDATE AVAILABLE.
+[08:10:05] [User Authenticator #1/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:10:06] [Craft Scheduler Thread - 0/INFO]: [BW] New RELEASE version 0.2.20 of BedWars is available!
+[08:10:06] [Craft Scheduler Thread - 0/INFO]: [BW] Download it from https://www.spigotmc.org/resources/63714/download?version=421768
+[08:10:06] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] mobs category is now updated.
+[08:10:06] [Server thread/INFO]: [Citizens] Loaded 4 NPCs.
+[08:10:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: Animations
+[08:10:06] [Server thread/WARN]: [PlaceholderAPI] Loaded class net.luckperms.api.LuckPerms from LuckPerms v5.3.42 which is not a depend, softdepend or loadbefore of this plugin.
+[08:10:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: luckperms
+[08:10:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[08:10:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[08:10:06] [Server thread/INFO]: [PlaceholderAPI] Successfully registered expansion: statistic
+[08:10:06] [Server thread/INFO]: 5 placeholder hooks successfully registered!
+[08:10:06] [Server thread/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[08:10:06] [Server thread/INFO]: Done (25.427s)! For help, type "help"
+[08:10:06] [Server thread/INFO]: Timings Reset
+[08:10:06] [Craft Scheduler Thread - 1/INFO]: [Vault] Checking for Updates ... 
+[08:10:07] [Server thread/INFO]: ItzAnu_ joined the game
+[08:10:07] [Craft Scheduler Thread - 1/INFO]: [Vault] No new version available
+[08:10:07] [Server thread/INFO]: ItzAnu_[/127.0.0.1:60132] logged in with entity id 53 at ([Lobby]54.77107739045569, 79.0, 37.97405604692615)
+[08:10:17] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] miscellaneous category is now updated.
+[08:10:32] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] humanoid category is now updated.
+[08:10:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7587ms or 151 ticks behind
+[08:10:32] [Server thread/INFO]: ItzAnu_ issued server command: /pl
+[08:10:43] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] pokemon category is now updated.
+[08:10:48] [Server thread/INFO]: ItzAnu_ issued server command: /headspluginapi lst
+[08:10:53] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] color category is now updated.
+[08:11:03] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] devices category is now updated.
+[08:11:17] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] blocks category is now updated.
+[08:11:22] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] Updating heads for: pikachu
+[08:11:32] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-774 (MC: 1.16.5) ---
+[08:11:32] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[08:11:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:32] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:11:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:32] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:11:32] [Paper Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: true | State: RUNNABLE
+[08:11:32] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.Net.poll(Native Method)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.park(NioSocketImpl.java:181)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:285)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.net.Socket$SocketInputStream.read(Socket.java:976)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1060)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.fill(BufferedInputStream.java:244)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:343)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:788)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:723)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1676)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		feign.Client$Default.convertResponse(Client.java:108)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		feign.Client$Default.execute(Client.java:104)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		jdk.proxy8/jdk.proxy8.$Proxy165.findById(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		jdk.proxy10/jdk.proxy10.$Proxy166.findById(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.MineSkinDao$$Lambda$7666/0x000000080267a378.apply(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.MineSkinDao.getHeads(MineSkinDao.java:72)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.lambda$requestHeads$1(HeadSearcherImpl.java:142)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$Lambda$7663/0x000000080266b7f8.apply(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.Collectors$$Lambda$103/0x0000000800d4fa30.accept(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.Iterator.forEachRemaining(Iterator.java:133)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.requestHeads(HeadSearcherImpl.java:140)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.updateSearch(HeadSearcherImpl.java:103)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.getHeads(HeadSearcherImpl.java:70)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$FastClassBySpringCGLIB$$2807e26f.invoke(<generated>)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$EnhancerBySpringCGLIB$$e25ad4bb.getHeads(<generated>)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.CustomCategoriesDao.getCategoryHeads(CustomCategoriesDao.java:41)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.CustomCategoriesDao.getCategoryHeads(CustomCategoriesDao.java:21)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.lambda$requestCategoryHeads$3(CategoryUpdaterImpl.java:150)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$Lambda$7138/0x00000008024e7b98.apply(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:273)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1837)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.requestCategoryHeads(CategoryUpdaterImpl.java:152)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.updateCategory(CategoryUpdaterImpl.java:126)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.updateCategory(CategoryUpdaterImpl.java:64)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$FastClassBySpringCGLIB$$f21ad011.invoke(<generated>)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$EnhancerBySpringCGLIB$$6b5530ac.updateCategory(<generated>)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater.lambda$run$0(StartupCategoryUpdater.java:35)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater$$Lambda$6877/0x00000008022b7578.run(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.lambda$runWithSender$2(Context.java:140)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context$$Lambda$7137/0x00000008024e7958.apply(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.runWithSender(Context.java:101)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.runWithSender(Context.java:139)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.lambda$wrap$6(Context.java:180)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context$$Lambda$6878/0x00000008022b7798.run(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:100)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1427)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3163/0x00000008012df3f8.run(Unknown Source)
+[08:11:32] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[08:11:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:32] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:11:32] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:11:33] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] getHeads time: 10.384s
+[08:11:33] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] Updating heads for: bulbasaur
+[08:11:34] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] getHeads time: 1.754s
+[08:11:34] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] Updating heads for: squirtle
+[08:11:36] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] getHeads time: 1.106s
+[08:11:36] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] pokemon-starters category is now updated.
+[08:11:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 13273ms or 265 ticks behind
+[08:11:36] [Server thread/INFO]: ItzAnu_ issued server command: /headsplugin
+[08:11:36] [Server thread/INFO]: ItzAnu_ issued server command: /headsplugin
+[08:11:47] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] food-drinks category is now updated.
+[08:11:59] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] monsters category is now updated.
+[08:12:10] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] alphabet category is now updated.
+[08:12:10] [Server thread/WARN]: ItzAnu_ moved too quickly! -3.0595892291456366,1.252203340253729,-12.689182045605898
+[08:12:16] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] food category is now updated.
+[08:12:17] [Server thread/INFO]: ItzAnu_ issued server command: /tps
+[08:12:26] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] interior category is now updated.
+[08:12:35] [Server thread/INFO]: ItzAnu_ issued server command: /headspluginapi
+[08:12:36] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] characters category is now updated.
+[08:12:46] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] Updating heads for: cat
+[08:12:55] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] getHeads time: 9.601s
+[08:12:55] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] Updating heads for: dog
+[08:12:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-774 (MC: 1.16.5) ---
+[08:12:55] [Paper Watchdog Thread/ERROR]: The server has not responded for 10 seconds! Creating thread dump
+[08:12:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:12:55] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:12:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:12:55] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:12:55] [Paper Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: true | State: RUNNABLE
+[08:12:55] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.Net.poll(Native Method)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.park(NioSocketImpl.java:181)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:285)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.net.Socket$SocketInputStream.read(Socket.java:976)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1060)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.fill(BufferedInputStream.java:244)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:343)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:788)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:723)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1676)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		feign.Client$Default.convertResponse(Client.java:108)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		feign.Client$Default.execute(Client.java:104)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		jdk.proxy8/jdk.proxy8.$Proxy161.find(Unknown Source)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.FreshCoalDao.getHeads(FreshCoalDao.java:83)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.lambda$requestHeads$1(HeadSearcherImpl.java:142)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$Lambda$7663/0x000000080266b7f8.apply(Unknown Source)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.Collectors$$Lambda$103/0x0000000800d4fa30.accept(Unknown Source)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.Iterator.forEachRemaining(Iterator.java:133)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.requestHeads(HeadSearcherImpl.java:140)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.updateSearch(HeadSearcherImpl.java:103)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.getHeads(HeadSearcherImpl.java:70)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$FastClassBySpringCGLIB$$2807e26f.invoke(<generated>)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$EnhancerBySpringCGLIB$$e25ad4bb.getHeads(<generated>)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.CustomCategoriesDao.getCategoryHeads(CustomCategoriesDao.java:41)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.CustomCategoriesDao.getCategoryHeads(CustomCategoriesDao.java:21)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.lambda$requestCategoryHeads$3(CategoryUpdaterImpl.java:150)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$Lambda$7138/0x00000008024e7b98.apply(Unknown Source)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:273)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1837)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.requestCategoryHeads(CategoryUpdaterImpl.java:152)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.updateCategory(CategoryUpdaterImpl.java:126)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.updateCategory(CategoryUpdaterImpl.java:64)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$FastClassBySpringCGLIB$$f21ad011.invoke(<generated>)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$EnhancerBySpringCGLIB$$6b5530ac.updateCategory(<generated>)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater.lambda$run$0(StartupCategoryUpdater.java:35)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater$$Lambda$6877/0x00000008022b7578.run(Unknown Source)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.lambda$runWithSender$2(Context.java:140)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context$$Lambda$7137/0x00000008024e7958.apply(Unknown Source)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.runWithSender(Context.java:101)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.runWithSender(Context.java:139)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.lambda$wrap$6(Context.java:180)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context$$Lambda$6878/0x00000008022b7798.run(Unknown Source)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:100)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1427)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3163/0x00000008012df3f8.run(Unknown Source)
+[08:12:55] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[08:12:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:12:55] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:12:55] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:00] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-774 (MC: 1.16.5) ---
+[08:13:00] [Paper Watchdog Thread/ERROR]: The server has not responded for 15 seconds! Creating thread dump
+[08:13:00] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:00] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:13:00] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:00] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:13:00] [Paper Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: true | State: RUNNABLE
+[08:13:00] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.Net.poll(Native Method)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.park(NioSocketImpl.java:181)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:285)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.net.Socket$SocketInputStream.read(Socket.java:976)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1060)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.fill(BufferedInputStream.java:244)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:343)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:788)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:723)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1676)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		feign.Client$Default.convertResponse(Client.java:108)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		feign.Client$Default.execute(Client.java:104)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		jdk.proxy8/jdk.proxy8.$Proxy165.findById(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		jdk.internal.reflect.GeneratedMethodAccessor240.invoke(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		jdk.proxy10/jdk.proxy10.$Proxy166.findById(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.MineSkinDao$$Lambda$7666/0x000000080267a378.apply(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.MineSkinDao.getHeads(MineSkinDao.java:72)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.lambda$requestHeads$1(HeadSearcherImpl.java:142)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$Lambda$7663/0x000000080266b7f8.apply(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.Collectors$$Lambda$103/0x0000000800d4fa30.accept(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.Iterator.forEachRemaining(Iterator.java:133)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.requestHeads(HeadSearcherImpl.java:140)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.updateSearch(HeadSearcherImpl.java:103)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.getHeads(HeadSearcherImpl.java:70)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$FastClassBySpringCGLIB$$2807e26f.invoke(<generated>)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$EnhancerBySpringCGLIB$$e25ad4bb.getHeads(<generated>)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.CustomCategoriesDao.getCategoryHeads(CustomCategoriesDao.java:41)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.CustomCategoriesDao.getCategoryHeads(CustomCategoriesDao.java:21)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.lambda$requestCategoryHeads$3(CategoryUpdaterImpl.java:150)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$Lambda$7138/0x00000008024e7b98.apply(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:273)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1837)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.requestCategoryHeads(CategoryUpdaterImpl.java:152)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.updateCategory(CategoryUpdaterImpl.java:126)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.updateCategory(CategoryUpdaterImpl.java:64)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$FastClassBySpringCGLIB$$f21ad011.invoke(<generated>)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$EnhancerBySpringCGLIB$$6b5530ac.updateCategory(<generated>)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater.lambda$run$0(StartupCategoryUpdater.java:35)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater$$Lambda$6877/0x00000008022b7578.run(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.lambda$runWithSender$2(Context.java:140)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context$$Lambda$7137/0x00000008024e7958.apply(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.runWithSender(Context.java:101)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.runWithSender(Context.java:139)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.lambda$wrap$6(Context.java:180)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context$$Lambda$6878/0x00000008022b7798.run(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:100)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1427)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3163/0x00000008012df3f8.run(Unknown Source)
+[08:13:00] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[08:13:00] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:00] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:13:00] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:05] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH  - git-Paper-774 (MC: 1.16.5) ---
+[08:13:05] [Paper Watchdog Thread/ERROR]: The server has not responded for 20 seconds! Creating thread dump
+[08:13:05] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:05] [Paper Watchdog Thread/ERROR]: Server thread dump (Look for plugins here before reporting to Paper!):
+[08:13:05] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:05] [Paper Watchdog Thread/ERROR]: Current Thread: Server thread
+[08:13:05] [Paper Watchdog Thread/ERROR]: 	PID: 30 | Suspended: false | Native: true | State: RUNNABLE
+[08:13:05] [Paper Watchdog Thread/ERROR]: 	Stack:
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.Net.poll(Native Method)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.park(NioSocketImpl.java:181)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:285)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:309)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:350)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:803)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.net.Socket$SocketInputStream.read(Socket.java:976)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:478)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:472)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketInputRecord.bytesInCompletePacket(SSLSocketInputRecord.java:70)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketImpl.readApplicationRecord(SSLSocketImpl.java:1454)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.security.ssl.SSLSocketImpl$AppInputStream.read(SSLSocketImpl.java:1060)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.fill(BufferedInputStream.java:244)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.read1(BufferedInputStream.java:284)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.io.BufferedInputStream.read(BufferedInputStream.java:343)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.http.HttpClient.parseHTTPHeader(HttpClient.java:788)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.http.HttpClient.parseHTTP(HttpClient.java:723)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1676)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1577)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:527)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		feign.Client$Default.convertResponse(Client.java:108)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		feign.Client$Default.execute(Client.java:104)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		feign.SynchronousMethodHandler.executeAndDecode(SynchronousMethodHandler.java:119)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		feign.SynchronousMethodHandler.invoke(SynchronousMethodHandler.java:89)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		feign.ReflectiveFeign$FeignInvocationHandler.invoke(ReflectiveFeign.java:100)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		jdk.proxy8/jdk.proxy8.$Proxy165.findById(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		jdk.internal.reflect.GeneratedMethodAccessor240.invoke(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.reflect.Method.invoke(Method.java:567)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.support.AopUtils.invokeJoinpointUsingReflection(AopUtils.java:344)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.invokeJoinpoint(ReflectiveMethodInvocation.java:198)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.JdkDynamicAopProxy.invoke(JdkDynamicAopProxy.java:215)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		jdk.proxy10/jdk.proxy10.$Proxy166.findById(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.MineSkinDao$$Lambda$7666/0x000000080267a378.apply(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:197)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.ArrayList$ArrayListSpliterator.forEachRemaining(ArrayList.java:1625)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.MineSkinDao.getHeads(MineSkinDao.java:72)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.lambda$requestHeads$1(HeadSearcherImpl.java:142)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$Lambda$7663/0x000000080266b7f8.apply(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.Collectors.lambda$uniqKeysMapAccumulator$1(Collectors.java:180)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.Collectors$$Lambda$103/0x0000000800d4fa30.accept(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$3ReducingSink.accept(ReduceOps.java:169)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.Iterator.forEachRemaining(Iterator.java:133)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.Spliterators$IteratorSpliterator.forEachRemaining(Spliterators.java:1801)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.requestHeads(HeadSearcherImpl.java:140)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.updateSearch(HeadSearcherImpl.java:103)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl.getHeads(HeadSearcherImpl.java:70)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$FastClassBySpringCGLIB$$2807e26f.invoke(<generated>)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl$$EnhancerBySpringCGLIB$$e25ad4bb.getHeads(<generated>)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.CustomCategoriesDao.getCategoryHeads(CustomCategoriesDao.java:41)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.integration.daos.heads.CustomCategoriesDao.getCategoryHeads(CustomCategoriesDao.java:21)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.lambda$requestCategoryHeads$3(CategoryUpdaterImpl.java:150)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$Lambda$7138/0x00000008024e7b98.apply(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:273)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.HashMap$EntrySpliterator.forEachRemaining(HashMap.java:1837)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:484)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReduceOps$ReduceOp.evaluateSequential(ReduceOps.java:913)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.util.stream.ReferencePipeline.collect(ReferencePipeline.java:682)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.requestCategoryHeads(CategoryUpdaterImpl.java:152)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.updateCategory(CategoryUpdaterImpl.java:126)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl.updateCategory(CategoryUpdaterImpl.java:64)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$FastClassBySpringCGLIB$$f21ad011.invoke(<generated>)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.cglib.proxy.MethodProxy.invoke(MethodProxy.java:218)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.invokeJoinpoint(CglibAopProxy.java:779)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:163)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor$1.proceedWithInvocation(TransactionInterceptor.java:123)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionAspectSupport.invokeWithinTransaction(TransactionAspectSupport.java:388)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.transaction.interceptor.TransactionInterceptor.invoke(TransactionInterceptor.java:119)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.interceptor.ExposeInvocationInterceptor.invoke(ExposeInvocationInterceptor.java:97)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.ReflectiveMethodInvocation.proceed(ReflectiveMethodInvocation.java:186)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$CglibMethodInvocation.proceed(CglibAopProxy.java:750)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		org.springframework.aop.framework.CglibAopProxy$DynamicAdvisedInterceptor.intercept(CglibAopProxy.java:692)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.business.services.heads.CategoryUpdaterImpl$$EnhancerBySpringCGLIB$$6b5530ac.updateCategory(<generated>)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater.lambda$run$0(StartupCategoryUpdater.java:35)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater$$Lambda$6877/0x00000008022b7578.run(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.lambda$runWithSender$2(Context.java:140)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context$$Lambda$7137/0x00000008024e7958.apply(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.runWithSender(Context.java:101)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.runWithSender(Context.java:139)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context.lambda$wrap$6(Context.java:180)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		dev.alangomes.springspigot.context.Context$$Lambda$6878/0x00000008022b7798.run(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftTask.run(CraftTask.java:100)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		app//org.bukkit.craftbukkit.v1_16_R3.scheduler.CraftScheduler.mainThreadHeartbeat(CraftScheduler.java:468)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.b(MinecraftServer.java:1427)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:436)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		app//net.minecraft.server.v1_16_R3.MinecraftServer$$Lambda$3163/0x00000008012df3f8.run(Unknown Source)
+[08:13:05] [Paper Watchdog Thread/ERROR]: 		java.base@16.0.2/java.lang.Thread.run(Thread.java:831)
+[08:13:05] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:05] [Paper Watchdog Thread/ERROR]: --- DO NOT REPORT THIS TO PAPER - THIS IS NOT A BUG OR A CRASH ---
+[08:13:05] [Paper Watchdog Thread/ERROR]: ------------------------------
+[08:13:07] [Server thread/INFO]: [com.github.cc007.headsplugin.business.services.heads.HeadSearcherImpl] getHeads time: 11.523s
+[08:13:07] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] cats-and-dogs category is now updated.
+[08:13:07] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 21279ms or 425 ticks behind
+[08:13:17] [Craft Scheduler Thread - 32/INFO]: [VoidGenerator] VoidGenerator v.2.0 is available here: https://www.spigotmc.org/resources/25391/
+[08:13:20] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] plants category is now updated.
+[08:13:27] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] games category is now updated.
+[08:13:45] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] animals category is now updated.
+[08:13:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7952ms or 159 ticks behind
+[08:14:01] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] humans category is now updated.
+[08:14:10] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] decoration category is now updated.
+[08:14:15] [Server thread/INFO]: [com.github.cc007.headsplugin.presentation.startup.StartupCategoryUpdater] misc category is now updated.
+[08:16:04] [Server thread/INFO]: ItzAnu_ issued server command: /hext
+[08:16:08] [Server thread/INFO]: ItzAnu_ issued server command: /holo
+[08:16:13] [Server thread/INFO]: ItzAnu_ issued server command: /holo help
+[08:16:28] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:16:28] [Craft Scheduler Thread - 41/WARN]: [FastAsyncWorldEdit] Loaded class org.hsqldb.jdbc.JDBCDriver from HeadsPluginAPI v2.0.11 which is not a depend, softdepend or loadbefore of this plugin.
+[08:16:38] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:17:16] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 1 ICON:totem
+[08:17:28] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 1 ICON: totem
+[08:17:37] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 1 ICON: totem_of_undying
+[08:17:45] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 1 ICON: totem
+[08:17:48] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:17:55] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 2 ICON: totem_of_undying
+[08:18:00] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:18:06] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 3 ICON: totem_of_undying
+[08:18:12] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:18:16] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 4 ICON: totem_of_undying
+[08:18:37] [Server thread/INFO]: ItzAnu_ issued server command: /up2
+[08:18:43] [Server thread/INFO]: ItzAnu_ issued server command: /gamemode creative
+[08:18:43] [Server thread/INFO]: [ItzAnu_: Set own game mode to Creative Mode]
+[08:18:53] [Server thread/INFO]: ItzAnu_ issued server command: /gamemode spectator
+[08:18:53] [Server thread/INFO]: [ItzAnu_: Set own game mode to Spectator Mode]
+[08:18:58] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:19:16] [Server thread/INFO]: ItzAnu_ issued server command: /up 4
+[08:19:23] [Server thread/INFO]: ItzAnu_ issued server command: /up 4
+[08:19:32] [Server thread/INFO]: ItzAnu_ issued server command: /up 4
+[08:19:36] [Server thread/INFO]: ItzAnu_ issued server command: /up 4
+[08:19:39] [Server thread/INFO]: ItzAnu_ issued server command: /up 4
+[08:19:42] [Server thread/INFO]: ItzAnu_ issued server command: /up 4
+[08:19:47] [Server thread/INFO]: ItzAnu_ issued server command: /gamemode creative
+[08:19:47] [Server thread/INFO]: [ItzAnu_: Set own game mode to Creative Mode]
+[08:20:08] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 5 ICON: diamond_sword
+[08:20:32] [Server thread/INFO]: ItzAnu_ issued server command: /hd delete 5
+[08:20:47] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:20:54] [Server thread/INFO]: ItzAnu_ issued server command: /up 1
+[08:21:03] [Server thread/INFO]: ItzAnu_ issued server command: /up 1
+[08:21:13] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:21:32] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:21:43] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 5 ICON: end_crystle
+[08:21:46] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 5 ICON: end_crystel
+[08:21:54] [Server thread/INFO]: ItzAnu_ issued server command: /hd create 5 ICON: end_crystal
+[08:26:44] [Server thread/INFO]: ItzAnu_ issued server command: /hd reload
+[08:27:12] [Server thread/INFO]: ItzAnu_ issued server command: /up 2
+[08:27:35] [Server thread/INFO]: ItzAnu_ issued server command: /hd create welcome
+[08:27:42] [Server thread/INFO]: ItzAnu_ issued server command: /hd addline
+[08:28:13] [Server thread/INFO]: ItzAnu_ issued server command: /hd addline welcome {animation:example.txt}
+[08:28:33] [Server thread/INFO]: ItzAnu_ issued server command: /hd removeline 1
+[08:28:37] [Server thread/INFO]: ItzAnu_ issued server command: /hd removeline welcome 1
+[08:29:06] [Server thread/INFO]: ItzAnu_ issued server command: /hd addline welcome &6Click On The NPC's And Enjoy!!!
+[08:34:09] [Server thread/INFO]: CONSOLE: Please note that this command is not supported and may cause issues when using some plugins.
+[08:34:09] [Server thread/INFO]: CONSOLE: If you encounter any issues please use the /stop command to restart your server.
+[08:34:09] [Server thread/ERROR]: No key layers in MapLike[{}]; No key structures in MapLike[{}]
+[08:34:09] [Server thread/INFO]: Debug logging is disabled
+[08:34:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[08:34:09] [Server thread/INFO]: Using 4 threads for Netty based IO
+[08:34:09] [Server thread/INFO]: [SBAHypixelify] Disabling SBAHypixelify v1.4.3
+[08:34:09] [Server thread/INFO]: [SBAHypixelify] Cancelling current tasks....
+[08:34:09] [Server thread/INFO]: [Negativity] Disabling Negativity v1.11
+[08:34:10] [Server thread/INFO]: [BedWars] Disabling BedWars v0.2.18
+[08:34:10] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: bedwars
+[08:34:10] [Server thread/INFO]: [Citizens] Disabling Citizens v2.0.28-SNAPSHOT (build 2328)
+[08:34:10] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v7.0.5+3827266
+[08:34:10] [Server thread/INFO]: [WorldGuard] Shutting down executor and cancelling any pending tasks...
+[08:34:10] [Server thread/INFO]: [HolographicExtension] Disabling HolographicExtension v1.10.9
+[08:34:10] [Server thread/INFO]: [HolographicExtension] Disabling HolographicExtension v1.10.9
+[08:34:10] [Server thread/INFO]: [FastAsyncWorldEdit] Disabling FastAsyncWorldEdit v1.16-730;96ed367
+[08:34:10] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[08:34:10] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v4.2.2-b812
+[08:34:10] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:34:10] [Server thread/INFO]: [ServerListPlus] Disabling ServerListPlus v3.4.8
+[08:34:10] [Server thread/INFO]: [ServerListPlus] ServerListPlus v3.4.8 disabled.
+[08:34:10] [Server thread/INFO]: [HolographicDisplays] Disabling HolographicDisplays v2.4.6
+[08:34:10] [Server thread/INFO]: [AdvancedReplay] Disabling AdvancedReplay v1.7
+[08:34:10] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.42
+[08:34:10] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion: luckperms
+[08:34:10] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[08:34:10] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:34:10] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:34:10] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v2.0.1
+[08:34:10] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v4.7.0
+[08:34:10] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v4.0.1
+[08:34:10] [Server thread/INFO]: [HeadsPluginAPI] Disabling HeadsPluginAPI v2.0.11
+[08:34:10] [Server thread/INFO]: [org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean] Closing JPA EntityManagerFactory for persistence unit 'default'
+[08:34:10] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[08:34:10] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[08:34:10] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[08:34:10] [Server thread/INFO]: Loaded 7 recipes
+[08:34:11] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[08:34:11] [Server thread/INFO]: Loaded 7 recipes
+[08:34:12] [Server thread/INFO]: ItzAnu_ lost connection: Server reload, please rejoin!
+[08:34:12] [Server thread/INFO]: ItzAnu_ left the game
+[08:34:14] [Server thread/INFO]: Using FAWE for relighting
+[08:34:14] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@518500]
+[08:34:14] [Server thread/INFO]:         __    
+[08:34:14] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.42
+[08:34:14] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[08:34:14] [Server thread/INFO]: 
+[08:34:17] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[08:34:17] [Server thread/INFO]: WEPIF: Vault detected! Using Vault for permissions
+[08:34:17] [Server thread/WARN]: Server reload detected. This may cause various issues with FastAsyncWorldEdit and dependent plugins. Reloading the server is not advised.
+[08:34:17] [Server thread/WARN]: For more information why reloading is bad, see https://madelinemiller.dev/blog/problem-with-reload/
+[08:34:17] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.FAWE_Spigot_v1_16_R3 as the Bukkit adapter
+[08:34:17] [Server thread/INFO]: 
+[08:34:17] [Server thread/INFO]:  _    _                   _        _____   _                _                    _____  _____
+[08:34:17] [Server thread/INFO]: | |  | |                 | |      |  __ \ | |              (_)            /\    |  __ \|_   _|
+[08:34:17] [Server thread/INFO]: | |__| |  ___   __ _   __| | ___  | |__) || | _   _   __ _  _  _ __      /  \   | |__) | | |
+[08:34:17] [Server thread/INFO]: |  __  | / _ \ / _` | / _` |/ __| |  ___/ | || | | | / _` || || '_ \    / /\ \  |  ___/  | |
+[08:34:17] [Server thread/INFO]: | |  | ||  __/| (_| || (_| |\__ \ | |     | || |_| || (_| || || | | |  / ____ \ | |     _| |_
+[08:34:17] [Server thread/INFO]: |_|  |_| \___| \__,_| \__,_||___/ |_|     |_| \__,_| \__, ||_||_| |_| /_/    \_\|_|    |_____|
+[08:34:17] [Server thread/INFO]:  _________________________________________________    __/ |  ________________________________
+[08:34:17] [Server thread/INFO]: |_________________________________________________|  |___/  |________________________________|
+[08:34:17] [Server thread/INFO]: 
+[08:34:17] [Server thread/INFO]:  :: HeadsPluginAPI - version 2.0.11 ::
+[08:34:17] [Server thread/INFO]: 
+[08:34:18] [Server thread/INFO]: [org.springframework.boot.SpringApplication] Starting application using Java 16.0.2 on Anurag with PID 3340 (started by Lenovo in C:\Users\Lenovo\Desktop\bw1.0)
+[08:34:18] [Server thread/INFO]: [org.springframework.boot.SpringApplication] No active profile set, falling back to default profiles: default
+[08:34:18] [User Authenticator #2/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:34:18] [Server thread/WARN]: [HeadsPluginAPI] Loaded class net.milkbowl.vault.economy.Economy from Vault v1.7.3-b131 which is not a depend, softdepend or loadbefore of this plugin.
+[08:34:18] [Server thread/INFO]: [org.springframework.data.repository.config.RepositoryConfigurationDelegate] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[08:34:18] [Server thread/INFO]: [org.springframework.data.repository.config.RepositoryConfigurationDelegate] Finished Spring Data repository scanning in 79 ms. Found 5 JPA repository interfaces.
+[08:34:19] [Server thread/INFO]: [org.springframework.cloud.context.scope.GenericScope] BeanFactory id=554924b7-98f8-3271-917e-c0f3e8778407
+[08:34:20] [Server thread/INFO]: [org.hibernate.jpa.internal.util.LogHelper] HHH000204: Processing PersistenceUnitInfo [name: default]
+[08:34:20] [Server thread/INFO]: [org.hibernate.Version] HHH000412: Hibernate ORM core version [WORKING]
+[08:34:20] [Server thread/INFO]: [org.hibernate.annotations.common.Version] HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+[08:34:20] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-2 - Starting...
+[08:34:31] [Server thread/ERROR]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-2 - Exception during pool initialization.
+java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:29 heartbeat - read: -5130 ms.
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCConnection.<init>(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.getConnection(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.connect(Unknown Source) ~[?:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[?:?]
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112) ~[?:?]
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35) ~[?:?]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[?:?]
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[?:?]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176) ~[?:?]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127) ~[?:?]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[?:?]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[?:?]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[?:?]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) ~[?:?]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:438) ~[?:?]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:337) ~[?:?]
+	at com.github.cc007.headsplugin.HeadsPlugin.onEnable(HeadsPlugin.java:88) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:518) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:432) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:965) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:826) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchServerCommand(CraftServer.java:788) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.handleCommandQueue(DedicatedServer.java:470) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:437) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-774]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: org.hsqldb.HsqlException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:29 heartbeat - read: -5130 ms.
+	at org.hsqldb.error.Error.error(Unknown Source) ~[?:?]
+	at org.hsqldb.error.Error.error(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.LockFile.newLockFileLock(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.Logger.acquireLock(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.Logger.open(Unknown Source) ~[?:?]
+	at org.hsqldb.Database.reopen(Unknown Source) ~[?:?]
+	at org.hsqldb.Database.open(Unknown Source) ~[?:?]
+	at org.hsqldb.DatabaseManager.getDatabase(Unknown Source) ~[?:?]
+	at org.hsqldb.DatabaseManager.newSession(Unknown Source) ~[?:?]
+	... 63 more
+[08:34:31] [Server thread/WARN]: [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator] HHH000342: Could not obtain connection to query metadata
+java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:29 heartbeat - read: -5130 ms.
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCConnection.<init>(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.getConnection(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.connect(Unknown Source) ~[?:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[?:?]
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112) ~[?:?]
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:68) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator.initiateService(JdbcEnvironmentInitiator.java:35) ~[?:?]
+	at org.hibernate.boot.registry.internal.StandardServiceRegistryImpl.initiateService(StandardServiceRegistryImpl.java:101) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.createService(AbstractServiceRegistryImpl.java:263) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:237) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[?:?]
+	at org.hibernate.id.factory.internal.DefaultIdentifierGeneratorFactory.injectServices(DefaultIdentifierGeneratorFactory.java:152) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.injectDependencies(AbstractServiceRegistryImpl.java:286) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.initializeService(AbstractServiceRegistryImpl.java:243) ~[?:?]
+	at org.hibernate.service.internal.AbstractServiceRegistryImpl.getService(AbstractServiceRegistryImpl.java:214) ~[?:?]
+	at org.hibernate.boot.internal.InFlightMetadataCollectorImpl.<init>(InFlightMetadataCollectorImpl.java:176) ~[?:?]
+	at org.hibernate.boot.model.process.spi.MetadataBuildingProcess.complete(MetadataBuildingProcess.java:127) ~[?:?]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.metadata(EntityManagerFactoryBuilderImpl.java:1224) ~[?:?]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1255) ~[?:?]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[?:?]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) ~[?:?]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:438) ~[?:?]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:337) ~[?:?]
+	at com.github.cc007.headsplugin.HeadsPlugin.onEnable(HeadsPlugin.java:88) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:518) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:432) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:965) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:826) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchServerCommand(CraftServer.java:788) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.handleCommandQueue(DedicatedServer.java:470) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:437) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-774]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: org.hsqldb.HsqlException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:29 heartbeat - read: -5130 ms.
+	at org.hsqldb.error.Error.error(Unknown Source) ~[?:?]
+	at org.hsqldb.error.Error.error(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.LockFile.newLockFileLock(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.Logger.acquireLock(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.Logger.open(Unknown Source) ~[?:?]
+	at org.hsqldb.Database.reopen(Unknown Source) ~[?:?]
+	at org.hsqldb.Database.open(Unknown Source) ~[?:?]
+	at org.hsqldb.DatabaseManager.getDatabase(Unknown Source) ~[?:?]
+	at org.hsqldb.DatabaseManager.newSession(Unknown Source) ~[?:?]
+	... 63 more
+[08:34:31] [Server thread/INFO]: [org.hibernate.dialect.Dialect] HHH000400: Using dialect: org.hibernate.dialect.HSQLDialect
+[08:34:32] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-2 - Starting...
+[08:34:43] [Server thread/ERROR]: [com.zaxxer.hikari.pool.HikariPool] HikariPool-2 - Exception during pool initialization.
+java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:41 heartbeat - read: -6975 ms.
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCConnection.<init>(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.getConnection(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.connect(Unknown Source) ~[?:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[?:?]
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112) ~[?:?]
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180) ~[?:?]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43) ~[?:?]
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59) ~[?:?]
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155) ~[?:?]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96) ~[?:?]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184) ~[?:?]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73) ~[?:?]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:318) ~[?:?]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:468) ~[?:?]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259) ~[?:?]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[?:?]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) ~[?:?]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:438) ~[?:?]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:337) ~[?:?]
+	at com.github.cc007.headsplugin.HeadsPlugin.onEnable(HeadsPlugin.java:88) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:518) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:432) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:965) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:826) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchServerCommand(CraftServer.java:788) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.handleCommandQueue(DedicatedServer.java:470) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:437) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-774]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: org.hsqldb.HsqlException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:41 heartbeat - read: -6975 ms.
+	at org.hsqldb.error.Error.error(Unknown Source) ~[?:?]
+	at org.hsqldb.error.Error.error(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.LockFile.newLockFileLock(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.Logger.acquireLock(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.Logger.open(Unknown Source) ~[?:?]
+	at org.hsqldb.Database.reopen(Unknown Source) ~[?:?]
+	at org.hsqldb.Database.open(Unknown Source) ~[?:?]
+	at org.hsqldb.DatabaseManager.getDatabase(Unknown Source) ~[?:?]
+	at org.hsqldb.DatabaseManager.newSession(Unknown Source) ~[?:?]
+	... 61 more
+[08:34:43] [Server thread/WARN]: [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] SQL Error: -451, SQLState: S1000
+[08:34:43] [Server thread/ERROR]: [org.hibernate.engine.jdbc.spi.SqlExceptionHelper] Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:41 heartbeat - read: -6975 ms.
+[08:34:43] [Server thread/ERROR]: [org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+[08:34:43] [Server thread/WARN]: [org.springframework.context.annotation.AnnotationConfigApplicationContext] Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+[08:34:43] [Server thread/INFO]: [org.springframework.boot.autoconfigure.logging.ConditionEvaluationReportLoggingListener] 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+[08:34:43] [Server thread/ERROR]: [org.springframework.boot.SpringApplication] Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Invocation of init method failed; nested exception is javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1786) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:602) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:524) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:335) ~[?:?]
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:234) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:333) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:208) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.getBean(AbstractApplicationContext.java:1154) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:908) ~[?:?]
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:583) ~[?:?]
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:758) ~[?:?]
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:438) ~[?:?]
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:337) ~[?:?]
+	at com.github.cc007.headsplugin.HeadsPlugin.onEnable(HeadsPlugin.java:88) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:263) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoader.java:370) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:500) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServer.java:518) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServer.java:432) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.reload(CraftServer.java:965) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.Bukkit.reload(Bukkit.java:726) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.defaults.ReloadCommand.execute(ReloadCommand.java:54) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:159) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServer.java:826) ~[patched_1.16.5.jar:git-Paper-774]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchServerCommand(CraftServer.java:788) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.handleCommandQueue(DedicatedServer.java:470) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.DedicatedServer.b(DedicatedServer.java:437) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.a(MinecraftServer.java:1342) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.w(MinecraftServer.java:1130) ~[patched_1.16.5.jar:git-Paper-774]
+	at net.minecraft.server.v1_16_R3.MinecraftServer.lambda$a$0(MinecraftServer.java:291) ~[patched_1.16.5.jar:git-Paper-774]
+	at java.lang.Thread.run(Thread.java:831) [?:?]
+Caused by: javax.persistence.PersistenceException: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:421) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[?:?]
+	... 30 more
+Caused by: org.hibernate.exception.GenericJDBCException: Unable to open JDBC Connection for DDL execution
+	at org.hibernate.exception.internal.StandardSQLExceptionConverter.convert(StandardSQLExceptionConverter.java:47) ~[?:?]
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:113) ~[?:?]
+	at org.hibernate.engine.jdbc.spi.SqlExceptionHelper.convert(SqlExceptionHelper.java:99) ~[?:?]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:69) ~[?:?]
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59) ~[?:?]
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155) ~[?:?]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96) ~[?:?]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184) ~[?:?]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73) ~[?:?]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:318) ~[?:?]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:468) ~[?:?]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259) ~[?:?]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[?:?]
+	... 30 more
+Caused by: java.sql.SQLException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:41 heartbeat - read: -6975 ms.
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCUtil.sqlException(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCConnection.<init>(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.getConnection(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.connect(Unknown Source) ~[?:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[?:?]
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112) ~[?:?]
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180) ~[?:?]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43) ~[?:?]
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59) ~[?:?]
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155) ~[?:?]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96) ~[?:?]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184) ~[?:?]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73) ~[?:?]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:318) ~[?:?]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:468) ~[?:?]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259) ~[?:?]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[?:?]
+	... 30 more
+Caused by: org.hsqldb.HsqlException: Database lock acquisition failure: lockFile: org.hsqldb.persist.LockFile@3cab21f4[file =C:\Users\Lenovo\Desktop\bw1.0\plugins\HeadsPluginAPI\data\heads.lck, exists=true, locked=false, valid=false, ] method: checkHeartbeat read: 2021-10-30 03:04:41 heartbeat - read: -6975 ms.
+	at org.hsqldb.error.Error.error(Unknown Source) ~[?:?]
+	at org.hsqldb.error.Error.error(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.LockFile.newLockFileLock(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.Logger.acquireLock(Unknown Source) ~[?:?]
+	at org.hsqldb.persist.Logger.open(Unknown Source) ~[?:?]
+	at org.hsqldb.Database.reopen(Unknown Source) ~[?:?]
+	at org.hsqldb.Database.open(Unknown Source) ~[?:?]
+	at org.hsqldb.DatabaseManager.getDatabase(Unknown Source) ~[?:?]
+	at org.hsqldb.DatabaseManager.newSession(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCConnection.<init>(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.getConnection(Unknown Source) ~[?:?]
+	at org.hsqldb.jdbc.JDBCDriver.connect(Unknown Source) ~[?:?]
+	at com.zaxxer.hikari.util.DriverDataSource.getConnection(DriverDataSource.java:138) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newConnection(PoolBase.java:364) ~[?:?]
+	at com.zaxxer.hikari.pool.PoolBase.newPoolEntry(PoolBase.java:206) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.createPoolEntry(HikariPool.java:476) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.checkFailFast(HikariPool.java:561) ~[?:?]
+	at com.zaxxer.hikari.pool.HikariPool.<init>(HikariPool.java:115) ~[?:?]
+	at com.zaxxer.hikari.HikariDataSource.getConnection(HikariDataSource.java:112) ~[?:?]
+	at org.hibernate.engine.jdbc.connections.internal.DatasourceConnectionProviderImpl.getConnection(DatasourceConnectionProviderImpl.java:122) ~[?:?]
+	at org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess.obtainConnection(JdbcEnvironmentInitiator.java:180) ~[?:?]
+	at org.hibernate.resource.transaction.backend.jdbc.internal.DdlTransactionIsolatorNonJtaImpl.getIsolatedConnection(DdlTransactionIsolatorNonJtaImpl.java:43) ~[?:?]
+	at org.hibernate.tool.schema.internal.exec.ImprovedExtractionContextImpl.getJdbcConnection(ImprovedExtractionContextImpl.java:60) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.SequenceInformationExtractorLegacyImpl.extractMetadata(SequenceInformationExtractorLegacyImpl.java:40) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.initializeSequences(DatabaseInformationImpl.java:65) ~[?:?]
+	at org.hibernate.tool.schema.extract.internal.DatabaseInformationImpl.<init>(DatabaseInformationImpl.java:59) ~[?:?]
+	at org.hibernate.tool.schema.internal.Helper.buildDatabaseInformation(Helper.java:155) ~[?:?]
+	at org.hibernate.tool.schema.internal.AbstractSchemaMigrator.doMigration(AbstractSchemaMigrator.java:96) ~[?:?]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.performDatabaseAction(SchemaManagementToolCoordinator.java:184) ~[?:?]
+	at org.hibernate.tool.schema.spi.SchemaManagementToolCoordinator.process(SchemaManagementToolCoordinator.java:73) ~[?:?]
+	at org.hibernate.internal.SessionFactoryImpl.<init>(SessionFactoryImpl.java:318) ~[?:?]
+	at org.hibernate.boot.internal.SessionFactoryBuilderImpl.build(SessionFactoryBuilderImpl.java:468) ~[?:?]
+	at org.hibernate.jpa.boot.internal.EntityManagerFactoryBuilderImpl.build(EntityManagerFactoryBuilderImpl.java:1259) ~[?:?]
+	at org.springframework.orm.jpa.vendor.SpringHibernateJpaPersistenceProvider.createContainerEntityManagerFactory(SpringHibernateJpaPersistenceProvider.java:58) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.createNativeEntityManagerFactory(LocalContainerEntityManagerFactoryBean.java:365) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.buildNativeEntityManagerFactory(AbstractEntityManagerFactoryBean.java:409) ~[?:?]
+	at org.springframework.orm.jpa.AbstractEntityManagerFactoryBean.afterPropertiesSet(AbstractEntityManagerFactoryBean.java:396) ~[?:?]
+	at org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean.afterPropertiesSet(LocalContainerEntityManagerFactoryBean.java:341) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1845) ~[?:?]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1782) ~[?:?]
+	... 30 more
+[08:34:43] [Server thread/INFO]: [HolographicDisplays] Please do not use /reload or plugin reloaders. Use the command "/holograms reload" instead. You will receive no support for doing this operation.
+[08:34:44] [Server thread/INFO]: [HolographicExtension] Starting HolographicExtension v1.10.9
+[08:34:44] [Server thread/INFO]: [HolographicExtension] Registering placeholder 'example' from config.
+[08:34:44] [Server thread/INFO]: [HolographicExtension] Registering placeholder 'scroller' from config.
+[08:34:44] [Server thread/INFO]: [HolographicExtension] Registering placeholder 'typing' from config.
+[08:34:44] [Server thread/INFO]: [HolographicExtension] Registering placeholder 'rainbow' from config.
+[08:34:44] [Server thread/INFO]: =====================  by ScreamingSandals <Misat11, Iamceph, Pronze>
+[08:34:44] [Server thread/INFO]: + Screaming BedWars +  Version: 0.2.18 FREE
+[08:34:44] [Server thread/INFO]: =====================  STABLE VERSION
+[08:34:44] [Server thread/INFO]: [BW] Arena Boats loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Boats3 loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena China loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Coliseum loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Enderman loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Enderman2 loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Ghost_Road loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Golden loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Golden2 loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Japan loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Japan2 loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Japan4 loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Labyrinth loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Labyrinth2 loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Toys loaded!
+[08:34:44] [Server thread/INFO]: [BW] Arena Toys2 loaded!
+[08:34:44] [Server thread/INFO]: Everything is loaded! If you like our work, consider visiting our Patreon! <3
+[08:34:44] [Server thread/INFO]: https://www.patreon.com/screamingsandals
+[08:34:45] [Server thread/INFO]: CONSOLE: Reload complete.
+[08:34:45] [Server thread/INFO]: Plugins (22): AdvancedReplay*, BedWars, Citizens, FastAsyncWorldEdit (WorldEdit), HeadsPluginAPI, HolographicDisplays, HolographicExtension, LuckPerms, Maintenance, Multiverse-Core, Negativity, PlaceholderAPI, ProtocolLib, SBAHypixelify, ServerListPlus*, Sudo*, Vault, ViaBackwards, ViaRewind, ViaVersion, VoidGenerator, WorldGuard
+[08:34:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 35637ms or 712 ticks behind
+[08:34:45] [Server thread/INFO]: [com.boydti.fawe.bukkit.FaweBukkit] Attempting to use plugin 'WorldGuard'
+[08:34:45] [Server thread/INFO]: 5 placeholder hooks successfully registered!
+[08:34:45] [Server thread/INFO]: ItzAnu_ joined the game
+[08:34:45] [Server thread/INFO]: ItzAnu_[/127.0.0.1:56104] logged in with entity id 143 at ([Lobby]34.81366931817217, 131.78704225046786, -32.554934879514256)
+[08:34:45] [Craft Scheduler Thread - 90/INFO]: [BW] New RELEASE version 0.2.20 of BedWars is available!
+[08:34:45] [Craft Scheduler Thread - 90/INFO]: [BW] Download it from https://www.spigotmc.org/resources/63714/download?version=421768
+[08:35:59] [Server thread/INFO]: ItzAnu_ issued server command: /maintenancespigot whitelist
+[08:36:06] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance add ItzAnu_
+[08:36:16] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance on
+[08:36:16] [Server thread/INFO]: [Maintenance] Maintenance mode is now activated.
+[08:36:18] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:36:18] [Server thread/INFO]: ItzAnu_ left the game
+[08:36:28] [User Authenticator #3/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:36:28] [Server thread/INFO]: ItzAnu_ joined the game
+[08:36:28] [Server thread/INFO]: ItzAnu_[/127.0.0.1:51769] logged in with entity id 154 at ([Lobby]38.532465759058276, 75.0, 6.614050534715699)
+[08:36:57] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:36:57] [Server thread/INFO]: ItzAnu_ left the game
+[08:38:29] [User Authenticator #4/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:38:29] [Server thread/INFO]: ItzAnu_ joined the game
+[08:38:29] [Server thread/INFO]: ItzAnu_[/127.0.0.1:53352] logged in with entity id 155 at ([Lobby]47.6767511221347, 75.0, 8.378271979330492)
+[08:38:34] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance off
+[08:38:34] [Server thread/INFO]: [Maintenance] Maintenance mode is now deactivated.
+[08:38:36] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:38:36] [Server thread/INFO]: ItzAnu_ left the game
+[08:38:39] [User Authenticator #4/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:38:39] [Server thread/INFO]: ItzAnu_ joined the game
+[08:38:39] [Server thread/INFO]: ItzAnu_[/127.0.0.1:53369] logged in with entity id 156 at ([Lobby]42.079845313960924, 75.0, 9.502811285344077)
+[08:39:12] [Server thread/INFO]: ItzAnu_ issued server command: /pl
+[08:40:00] [Server thread/INFO]: ItzAnu_ issued server command: /gamemode creative
+[08:40:00] [Server thread/INFO]: [ItzAnu_: Set own game mode to Creative Mode]
+[08:41:32] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance whitelist
+[08:42:08] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance motd
+[08:42:23] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance scheduletimer
+[08:42:34] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance start
+[08:42:40] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance whitelist
+[08:42:53] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance remove ItzAnu_
+[08:42:54] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:42:54] [Server thread/INFO]: ItzAnu_ left the game
+[08:42:57] [User Authenticator #5/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:42:58] [Server thread/INFO]: ItzAnu_ joined the game
+[08:42:58] [Server thread/INFO]: ItzAnu_[/127.0.0.1:63645] logged in with entity id 160 at ([Lobby]-14.560263290255742, 80.0, 6.637778515290896)
+[08:43:04] [Server thread/INFO]: ItzAnu_ issued server command: /deop ItzAnu_
+[08:43:04] [Server thread/INFO]: [ItzAnu_: Made ItzAnu_ no longer a server operator]
+[08:43:05] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:43:05] [Server thread/INFO]: ItzAnu_ left the game
+[08:43:12] [User Authenticator #5/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:43:12] [Server thread/INFO]: ItzAnu_ joined the game
+[08:43:12] [Server thread/INFO]: ItzAnu_[/127.0.0.1:63681] logged in with entity id 161 at ([Lobby]-15.499580208531189, 79.0, 5.788577572462134)
+[08:43:37] [Server thread/INFO]: Made ItzAnu_ a server operator
+[08:43:43] [Server thread/INFO]: ItzAnu_ issued server command: /maintenance on
+[08:43:43] [Server thread/INFO]: [Maintenance] Maintenance mode is now activated.
+[08:43:45] [Server thread/INFO]: ItzAnu_ issued server command: /deop ItzAnu_
+[08:43:45] [Server thread/INFO]: [ItzAnu_: Made ItzAnu_ no longer a server operator]
+[08:43:47] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:43:47] [Server thread/INFO]: ItzAnu_ left the game
+[08:43:50] [User Authenticator #5/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:43:50] [Server thread/INFO]: ItzAnu_ joined the game
+[08:43:50] [Server thread/INFO]: ItzAnu_[/127.0.0.1:63701] logged in with entity id 162 at ([Lobby]-15.499580208531189, 79.0, 5.788577572462134)
+[08:44:05] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:44:05] [Server thread/INFO]: ItzAnu_ left the game
+[08:44:46] [User Authenticator #5/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:44:46] [Server thread/INFO]: ItzAnu_ joined the game
+[08:44:46] [Server thread/INFO]: ItzAnu_[/127.0.0.1:63729] logged in with entity id 163 at ([Lobby]-15.62159261395972, 79.0, 6.167671514729932)
+[08:44:57] [Server thread/INFO]: ItzAnu_ issued server command: /whitelist on
+[08:44:57] [Server thread/ERROR]: No key layers in MapLike[{}]; No key structures in MapLike[{}]
+[08:44:57] [Server thread/INFO]: [ItzAnu_: Whitelist is now turned on]
+[08:44:59] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:44:59] [Server thread/INFO]: ItzAnu_ left the game
+[08:45:03] [User Authenticator #5/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:45:03] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@5fc0eda5[id=0a1a720b-311f-3fd9-9d73-75a754fc81cf,name=ItzAnu_,properties={},legacy=false] (/127.0.0.1:63753): The server is under maintenance, try to join in later.
+[08:45:04] [Server thread/INFO]: com.mojang.authlib.GameProfile@5fc0eda5[id=0a1a720b-311f-3fd9-9d73-75a754fc81cf,name=ItzAnu_,properties={},legacy=false] (/127.0.0.1:63753) lost connection: The server is under maintenance, try to join in later.
+[08:45:06] [User Authenticator #5/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:45:07] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@2ca533ad[id=0a1a720b-311f-3fd9-9d73-75a754fc81cf,name=ItzAnu_,properties={},legacy=false] (/127.0.0.1:63755): The server is under maintenance, try to join in later.
+[08:45:07] [Server thread/INFO]: com.mojang.authlib.GameProfile@2ca533ad[id=0a1a720b-311f-3fd9-9d73-75a754fc81cf,name=ItzAnu_,properties={},legacy=false] (/127.0.0.1:63755) lost connection: The server is under maintenance, try to join in later.
+[08:45:09] [User Authenticator #5/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:45:09] [Server thread/INFO]: Disconnecting com.mojang.authlib.GameProfile@72e2b0b4[id=0a1a720b-311f-3fd9-9d73-75a754fc81cf,name=ItzAnu_,properties={},legacy=false] (/127.0.0.1:63756): The server is under maintenance, try to join in later.
+[08:45:09] [Server thread/INFO]: com.mojang.authlib.GameProfile@72e2b0b4[id=0a1a720b-311f-3fd9-9d73-75a754fc81cf,name=ItzAnu_,properties={},legacy=false] (/127.0.0.1:63756) lost connection: The server is under maintenance, try to join in later.
+[08:45:14] [Server thread/INFO]: Made ItzAnu_ a server operator
+[08:45:16] [User Authenticator #5/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:45:16] [Server thread/INFO]: ItzAnu_ joined the game
+[08:45:16] [Server thread/INFO]: ItzAnu_[/127.0.0.1:63757] logged in with entity id 167 at ([Lobby]13.670389907328705, 78.0, 4.37540594903226)
+[08:45:22] [Server thread/INFO]: ItzAnu_ issued server command: /whitelist off
+[08:45:22] [Server thread/ERROR]: No key layers in MapLike[{}]; No key structures in MapLike[{}]
+[08:45:22] [Server thread/INFO]: [ItzAnu_: Whitelist is now turned off]
+[08:45:32] [Server thread/INFO]: ItzAnu_ issued server command: /whitelist on
+[08:45:32] [Server thread/ERROR]: No key layers in MapLike[{}]; No key structures in MapLike[{}]
+[08:45:32] [Server thread/INFO]: [ItzAnu_: Whitelist is now turned on]
+[08:45:35] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:45:35] [Server thread/INFO]: ItzAnu_ left the game
+[08:46:31] [User Authenticator #6/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:46:31] [Server thread/INFO]: ItzAnu_ joined the game
+[08:46:31] [Server thread/INFO]: ItzAnu_[/127.0.0.1:63799] logged in with entity id 168 at ([Lobby]-4.971236777167658, 80.0, -2.5638586201518936)
+[08:47:21] [Server thread/INFO]: ItzAnu_ issued server command: /npc list
+[08:47:34] [Server thread/INFO]: ItzAnu_ issued server command: /npc look
+[08:47:40] [Server thread/INFO]: ItzAnu_ issued server command: /npc select 0
+[08:47:41] [Server thread/INFO]: ItzAnu_ issued server command: /npc look
+[08:47:55] [Server thread/INFO]: ItzAnu_ issued server command: /npc select 1
+[08:47:57] [Server thread/INFO]: ItzAnu_ issued server command: /npc look
+[08:48:02] [Server thread/INFO]: ItzAnu_ issued server command: /npc select 2
+[08:48:03] [Server thread/INFO]: ItzAnu_ issued server command: /npc look
+[08:48:07] [Server thread/INFO]: ItzAnu_ issued server command: /npc select 3
+[08:48:09] [Server thread/INFO]: ItzAnu_ issued server command: /npc look
+[08:50:11] [Server thread/INFO]: ItzAnu_ issued server command: /give @s netherite_sword{display:{Lore:["\"&c&lTHE ADMIN SWORD\""]}} 1
+[08:50:11] [Server thread/INFO]: [ItzAnu_: Gave 1 [Netherite Sword] to ItzAnu_]
+[08:50:25] [Server thread/INFO]: ItzAnu_ issued server command: /clear
+[08:50:25] [Server thread/INFO]: [ItzAnu_: Removed 2 items from player ItzAnu_]
+[08:53:33] [Server thread/INFO]: Gave 1 [THE GOD SWORD] to ItzAnu_
+[08:54:38] [Server thread/INFO]: Gave 1 [THE GOD SWORD] to ItzAnu_
+[08:55:01] [Server thread/INFO]: ItzAnu_ issued server command: /gamemode creative
+[08:55:01] [Server thread/INFO]: [ItzAnu_: Set own game mode to Creative Mode]
+[08:55:24] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:55:24] [Server thread/INFO]: ItzAnu_ left the game
+[08:55:28] [User Authenticator #7/INFO]: UUID of player ItzAnu_ is 0a1a720b-311f-3fd9-9d73-75a754fc81cf
+[08:55:28] [Server thread/INFO]: ItzAnu_ joined the game
+[08:55:28] [Server thread/INFO]: ItzAnu_[/127.0.0.1:64064] logged in with entity id 176 at ([Lobby]35.3962675496862, 75.0, 22.647846315463944)
+[08:55:36] [Server thread/INFO]: ItzAnu_ issued server command: /bwaddon gamesinv double
+[08:55:42] [Server thread/INFO]: ItzAnu_ issued server command: /bwaddon gamesinv double
+[08:55:52] [Server thread/INFO]: ItzAnu_ issued server command: /bwaddon gamesinv solo
+[08:56:41] [Server thread/INFO]: ItzAnu_ lost connection: Disconnected
+[08:56:41] [Server thread/INFO]: ItzAnu_ left the game
+[08:56:50] [Server thread/INFO]: Stopping the server
+[08:56:50] [Server thread/INFO]: Stopping server
+[08:56:51] [Server thread/INFO]: [HolographicExtension] Disabling HolographicExtension v1.10.9
+[08:56:51] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[08:56:51] [Server thread/INFO]: Saving players
+[08:56:51] [Server thread/INFO]: Saving worlds
+[08:56:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Lobby]'/minecraft:overworld
+[08:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (Lobby): All chunks are saved
+[08:56:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[China4]'/minecraft:china4
+[08:56:51] [Server thread/INFO]: ThreadedAnvilChunkStorage (China4): All chunks are saved
+[08:56:51] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Japan]'/minecraft:japan
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Japan): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Boats]'/minecraft:boats
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Boats): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Labyrinth]'/minecraft:labyrinth
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Labyrinth): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Boats3]'/minecraft:boats3
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Boats3): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Golden2]'/minecraft:golden2
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Golden2): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Toys2]'/minecraft:toys2
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Toys2): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Toys]'/minecraft:toys
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Toys): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enderman2]'/minecraft:enderman2
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Enderman2): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Enderman]'/minecraft:enderman
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Enderman): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Labyrinth2]'/minecraft:labyrinth2
+[08:56:52] [Server thread/INFO]: ThreadedAnvilChunkStorage (Labyrinth2): All chunks are saved
+[08:56:52] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Coliseum]'/minecraft:coliseum
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Coliseum): All chunks are saved
+[08:56:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Japan2]'/minecraft:japan2
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Japan2): All chunks are saved
+[08:56:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Ghost_Road]'/minecraft:ghost_road
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Ghost_Road): All chunks are saved
+[08:56:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Japan4]'/minecraft:japan4
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Japan4): All chunks are saved
+[08:56:53] [Server thread/INFO]: Saving chunks for level 'ServerLevel[Golden]'/minecraft:golden
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Golden): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Lobby): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (China4): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Japan): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Boats): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Labyrinth): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Boats3): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Golden2): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Toys2): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Toys): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Enderman2): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Enderman): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Labyrinth2): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Coliseum): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Japan2): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Ghost_Road): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Japan4): All chunks are saved
+[08:56:53] [Server thread/INFO]: ThreadedAnvilChunkStorage (Golden): All chunks are saved
+[08:56:53] [Server thread/INFO]: Saving usercache.json
+[08:56:53] [Server thread/INFO]: Flushing Chunk IO
+[08:56:53] [Server thread/INFO]: Closing Thread Pool
+[08:56:53] [Server thread/INFO]: Closing Server

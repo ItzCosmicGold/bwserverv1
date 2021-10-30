@@ -1,0 +1,13 @@
+name: owner
+permissions:
+- '*'
+- bw.mvp:
+    value: false
+- bw.owner
+- bw.vip:
+    value: false
+- bw.vip+:
+    value: false
+prefixes:
+- '&cOwner &F':
+    priority: 1

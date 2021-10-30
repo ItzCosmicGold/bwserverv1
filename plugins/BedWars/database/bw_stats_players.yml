@@ -1,0 +1,25 @@
+data:
+  0a1a720b-311f-3fd9-9d73-75a754fc81cf:
+    kills: 1
+    wins: 2
+    score: 335
+    loses: 0
+    name: ItzAnu_
+    destroyedBeds: 1
+    deaths: 0
+  c2321a54-345d-301d-8b11-05edee31b1f9:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 0
+    name: TBRN
+    destroyedBeds: 0
+    deaths: 0
+  01e11519-a30b-336a-a883-92939db453bf:
+    kills: 0
+    wins: 0
+    score: 0
+    loses: 1
+    name: TBRNFrags
+    destroyedBeds: 0
+    deaths: 1

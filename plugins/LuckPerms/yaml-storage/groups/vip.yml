@@ -1,0 +1,133 @@
+name: vip
+permissions:
+- bedwars.vip+
+- bukkit.broadcast.scradmin:
+    value: false
+- bukkit.broadcast.user
+- bukkit.command.help:
+    value: false
+- bukkit.command.plugins:
+    value: false
+- bukkit.command.reload:
+    value: false
+- bukkit.command.timings:
+    value: false
+- bukkit.command.version:
+    value: false
+- bw.chatcolor
+- bw.forcestart
+- bw.mvp:
+    value: false
+- bw.vip
+- bw.vip+:
+    value: false
+- minecraft.admin.command_feedback:
+    value: false
+- minecraft.autocraft:
+    value: false
+- minecraft.command.advancement:
+    value: false
+- minecraft.command.ban:
+    value: false
+- minecraft.command.ban-ip:
+    value: false
+- minecraft.command.banlist:
+    value: false
+- minecraft.command.clear:
+    value: false
+- minecraft.command.debug:
+    value: false
+- minecraft.command.deop:
+    value: false
+- minecraft.command.difficulty:
+    value: false
+- minecraft.command.effect:
+    value: false
+- minecraft.command.enchant:
+    value: false
+- minecraft.command.fill:
+    value: false
+- minecraft.command.gamemode:
+    value: false
+- minecraft.command.gamerule:
+    value: false
+- minecraft.command.give:
+    value: false
+- minecraft.command.help:
+    value: false
+- minecraft.command.kick:
+    value: false
+- minecraft.command.kill:
+    value: false
+- minecraft.command.list:
+    value: false
+- minecraft.command.me:
+    value: false
+- minecraft.command.msg
+- minecraft.command.op:
+    value: false
+- minecraft.command.pardon:
+    value: false
+- minecraft.command.pardon-ip:
+    value: false
+- minecraft.command.playsound:
+    value: false
+- minecraft.command.save-all:
+    value: false
+- minecraft.command.save-off:
+    value: false
+- minecraft.command.save-on:
+    value: false
+- minecraft.command.say:
+    value: false
+- minecraft.command.scoreboard:
+    value: false
+- minecraft.command.seed:
+    value: false
+- minecraft.command.selector:
+    value: false
+- minecraft.command.setblock:
+    value: false
+- minecraft.command.setidletimeout:
+    value: false
+- minecraft.command.setworldspawn:
+    value: false
+- minecraft.command.spawnpoint:
+    value: false
+- minecraft.command.spreadplayers:
+    value: false
+- minecraft.command.stop:
+    value: false
+- minecraft.command.summon:
+    value: false
+- minecraft.command.teleport:
+    value: false
+- minecraft.command.tellraw:
+    value: false
+- minecraft.command.testfor:
+    value: false
+- minecraft.command.testforblocks:
+    value: false
+- minecraft.command.time:
+    value: false
+- minecraft.command.toggledownfall:
+    value: false
+- minecraft.command.weather:
+    value: false
+- minecraft.command.whitelist:
+    value: false
+- minecraft.command.xp:
+    value: false
+- minecraft.debugstick:
+    value: false
+- minecraft.debugstick.always:
+    value: false
+- minecraft.nbt.copy:
+    value: false
+- minecraft.nbt.place:
+    value: false
+parents:
+- default
+prefixes:
+- '&aVIP &a':
+    priority: 20
